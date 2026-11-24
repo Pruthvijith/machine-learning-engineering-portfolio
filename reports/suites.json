@@ -1,0 +1,68 @@
+[
+  {
+    "project": "industrial-foundation-model-engineering",
+    "pytest_passed": 8,
+    "source_statements": 306,
+    "missed_statements": 20,
+    "statement_coverage": 93.46,
+    "coverage_scope": "posttrain",
+    "mypy": "Success: no issues found in 5 source files",
+    "ruff": "check and format passed",
+    "ci": "configured; hosted run unverified"
+  },
+  {
+    "project": "engineering-llm-evaluation-framework",
+    "pytest_passed": 13,
+    "source_statements": 139,
+    "missed_statements": 12,
+    "statement_coverage": 91.37,
+    "coverage_scope": "evaluation",
+    "mypy": "Success: no issues found in 4 source files",
+    "ruff": "check and format passed",
+    "ci": "configured; hosted run unverified"
+  },
+  {
+    "project": "llm-inference-performance-engineering",
+    "pytest_passed": 5,
+    "source_statements": 209,
+    "missed_statements": 19,
+    "statement_coverage": 90.91,
+    "coverage_scope": "serving",
+    "mypy": "Success: no issues found in 6 source files",
+    "ruff": "check and format passed",
+    "ci": "configured; hosted run unverified"
+  },
+  {
+    "project": "industrial-predictive-maintenance-ml",
+    "pytest_passed": 5,
+    "source_statements": 237,
+    "missed_statements": 26,
+    "statement_coverage": 89.03,
+    "coverage_scope": "condition",
+    "mypy": "Success: no issues found in 5 source files",
+    "ruff": "check and format passed",
+    "ci": "configured; hosted run unverified"
+  },
+  {
+    "project": "multimodal-engineering-document-intelligence",
+    "pytest_passed": 4,
+    "source_statements": 177,
+    "missed_statements": 6,
+    "statement_coverage": 96.61,
+    "coverage_scope": "records",
+    "mypy": "Success: no issues found in 4 source files",
+    "ruff": "check and format passed",
+    "ci": "configured; hosted run unverified"
+  },
+  {
+    "project": "sovereign-ai-mlops-platform",
+    "pytest_passed": 3,
+    "source_statements": 141,
+    "missed_statements": 21,
+    "statement_coverage": 85.11,
+    "coverage_scope": "lifecycle",
+    "mypy": "Success: no issues found in 3 source files",
+    "ruff": "check and format passed",
+    "ci": "configured; hosted run unverified"
+  }
+]

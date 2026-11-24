@@ -1,0 +1,10 @@
+{
+  "training/run.json": "f1b05938769c80a5f7af2b78aac28215e0ca823de567913337a95e3d408bec16",
+  "qualification.json": "64f9bfafd5789e256afd474ff57c35ba689f1bdea0149be4b4b60b4a778ae8f4",
+  "cpu.json": "9988b36ef3a0010e41cd5471c9810641bc2e480d7c51816b3cb75b7db4405a1e",
+  "energy.json": "8d91168e8fa0e9679115fe8f3b68f775b1970e242439f7d7f5edb09bba060383",
+  "vibration.json": "4253b9e609a3aaa3f1796e518605b6c1f7b6bd24e16bce279952d4c88286773b",
+  "cards/report.json": "bbff7120096b593d7244ff1811f3daa1e53e8d1deeef14d34961e99d3d059729",
+  "tracking.json": "c4a9240465035aa98ecedc545b6d64b0d98b6af66435ceaef64d667fae8077d1",
+  "alignment/metrics.json": "119618e8411d391c37690c70ad54b139a691867ab6cde90456bb7af55347dfd4"
+}
